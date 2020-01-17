@@ -12,7 +12,9 @@ Step 1
 
 step 2
 【checkpoint file download:】
+
 EPOCH: 100, TEST_ACCURACY: 99.47%
+
 link：https://pan.baidu.com/s/1vvlgAXYEOsTuGFwTU9d7Bg 
 access code：sclx
 
