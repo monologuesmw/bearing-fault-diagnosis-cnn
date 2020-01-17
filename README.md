@@ -8,7 +8,7 @@ Reference: Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning
 【paper】https://ieeexplore.ieee.org/abstract/document/8793060
 
 Step 1
-download or clone this github.
+【download or clone this github.】
 
 step 2
 【checkpoint file download:】
