@@ -1,6 +1,9 @@
 # bearing-fault-diagnosis-cnn
 Siamese network for bearing fault diagnosis
-This project is developed using tensorflow.   EPOCH: 100, ACCURACY: 99.47%
+This project is developed using tensorflow. 
+
+EPOCH: 100, ACCURACY: 99.47%
+
 bearing fault data source: Case_Western_Reserve_University_Bearing_fault_data 
 
 Reference: Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning
