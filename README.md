@@ -1,5 +1,6 @@
 # bearing-fault-diagnosis-cnn
 Siamese network for bearing fault diagnosis
+
 This project is developed using tensorflow. 
 
 EPOCH: 100, ACCURACY: 99.47%
